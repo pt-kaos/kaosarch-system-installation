@@ -1,4 +1,9 @@
 #!/bin/bash
+set -eo pipefail
+##################################################################################################################
+# Author    : Pedro Teodoro
+# Github    : https://github.com/pt-kaos
+##################################################################################################################
 #set -e
 
 workdir=$(pwd)
@@ -7,11 +12,9 @@ workdir=$(pwd)
 git add --all .
 
 # Committing to the local repository with a message containing the time details and commit text
-
 git commit -m "update"
 
 # Push the local files to github
-
 git push -u origin main
 
 echo
