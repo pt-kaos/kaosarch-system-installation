@@ -1,6 +1,6 @@
 #!/bin/bash
 echo "#################################"
-echo "Start arcolinux-before"
+echo "Start kaosarch-before"
 echo "#################################"
 echo
 echo "#################################"
@@ -19,6 +19,6 @@ echo "#################################"
 mv -v /etc/mkinitcpio.d/arcolinux /etc/mkinitcpio.d/linux.preset
 echo
 echo "#################################"
-echo "End arcolinux-before"
+echo "End kaosarch-before"
 echo "#################################"
 echo
