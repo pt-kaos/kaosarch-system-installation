@@ -41,7 +41,6 @@ echo "#################################"
 echo "Cleanup original files"
 echo "#################################"
 rm -fv /etc/sudoers.d/g_wheel
-rm -rfv /usr/share/backgrounds/xfce
 rm -fv /etc/polkit-1/rules.d/49-nopasswd_global.rules
 rm -v /root/{.automated_script.sh,.zlogin}
 mv -v /etc/arcolinux-release /etc/lsb-release

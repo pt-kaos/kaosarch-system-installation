@@ -8,10 +8,6 @@
 ######################################################################
 ######################################################################
 
-![KaosArch Logo](kiro-xfce.jpg)
-
-![KaosArch Logo](kiro-chadwm.jpg)
-
 # Download
 
 You can download the latest KaosArch ISO from [our SourceForge page](https://sourceforge.net/projects/kiro/files/).
@@ -26,7 +22,7 @@ KaosArch is my personal choice:
 - systemboot
 - ext4
 - sddm
-- xfce4 and chadwm
+- awesome
 - a lot of free software
 
 ## 🚀 Features
